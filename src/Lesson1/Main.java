@@ -14,7 +14,6 @@ public class Main {
                 new Water(17)
         });
 
-
         c.doIt(team);
         team.showResults();
 
