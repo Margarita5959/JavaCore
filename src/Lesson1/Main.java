@@ -13,6 +13,8 @@ public class Main {
                 new Wall(2),
                 new Water(17)
         });
+
+
         c.doIt(team);
         team.showResults();
 
